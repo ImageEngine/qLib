@@ -9,3 +9,4 @@ examples/backup
 otls/*/backup
 gallery/backup
 
+.sconsign.dblite
